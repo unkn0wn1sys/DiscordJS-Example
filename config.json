@@ -1,0 +1,16 @@
+{
+  "authentication"        : {
+       "token"            : "<token-here>"
+   },
+  "database_settings"     : {
+        "host"            : "localhost",
+        "user"            : "root",
+        "password"        : "",
+        "database"        : ""
+    },
+   "bot_settings"         : {
+       "prefix"           : "+",
+       "status"           : "dnd",
+       "activity"         : "with your mom"
+   }
+}
