@@ -1,2 +1,9 @@
-# DiscordJS-Example
-Well-commented discord bot example as an introduction to node.js and discord.js.
+# A well-commented example of a Discord Bot using Node- and Discord.js!
+Python is sexy, trust me - but let's give JS a try!
+
+This bot contains:
+- A simple MySQL connection
+- Configuration file (JSON)
+- Two basic commands (+ping, +about)
+
+As you can see, nothing special, just some common shit done in a fancy and good way.
